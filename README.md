@@ -23,7 +23,7 @@ Contributors
 
 - Askxtylishh — Developer
 - @skykoderhere — Contributor
-- @iabhii28
+- @iabhii28 — Contributor
 
 Disclaimer
 
