@@ -1,9 +1,10 @@
+# Insta Tools
 
-Insta Tools
+> Insta Tools is a simple and modern Android toolkit made for working with Instagram flags, mapping files, and JSON files
 
-Insta Tools is a simple and modern Android toolkit made for working with Instagram flags, mapping files, and JSON files
+---
 
-Features
+## Features
 
 - 🔍 Flag Analysis — Analyze and understand Instagram flags
 - 🗂️ Mapping File Analysis — Analyze mapping files and their data
@@ -15,24 +16,24 @@ Features
 - 🔎 JSON Search — Quickly search for flags and values inside JSON files
 - 🎨 Modern Interface — Clean, simple, and easy-to-use UI
 
-Download
+## Download
 
 Download the latest APK from the Releases section.
 
-Contributors
+## Contributors
 
 - Askxtylishh — Developer
 - @skykoderhere — Contributor
 - @iabhii28 — Contributor
 
-Disclaimer
+## Disclaimer
 
 Insta Tools is an independent project and is not affiliated with, sponsored by, or endorsed by Instagram or Meta
 
-Credits :-
+## Credits
 
 Thanks to everyone who contributed to the development and improvement of Insta Tools
 
+---
 
-
-Made with ❤️ by Askxtylishh
+> Made with ❤️ by Askxtylishh
